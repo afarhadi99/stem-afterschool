@@ -7,6 +7,6 @@ In this file you should answer the following questions:
 5. Using Gemini, come up with a logo for your company and images for your product. You will upload them here.
 
 
-Concept: App that uses AI to turn images into Dungeons and Dragon style
+Concept: App that uses AI to turn images into Dungeons and Dragon style 
 Pricing: $10/month for 1000 images
 App name: AI will come up with a trendy name
