@@ -1,0 +1,25 @@
+{
+  "name": "aura-city-website",
+  "version": "1.0.0",
+  "description": "Luxury tech-enabled fashion e-commerce website - Wear Your Energy",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "luxury",
+    "fashion",
+    "tech-enabled",
+    "e-commerce",
+    "smart-clothing",
+    "fragrances"
+  ],
+  "author": "Jeremiah & Niveah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/aura-city-website.git"
+  },
+  "homepage": "https://aura-city.vercel.app"
+}
